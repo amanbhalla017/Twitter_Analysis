@@ -12,7 +12,7 @@ Word Cloud : A WordCloud is a visual representation of text data depicting key w
 
 Sentiment Analysis Barplot : After performing Data Mining and Sentiment Analytics, the tweets are given a sentiment score (ranging from -1 to 1) and are accordingly classified and visualised in the form of a Barlot with 3 categories namely : Negative, Neutral and Positive.
 
-# Sentiment Analysis Method Used 
+# Sentiment Analysis Methods
 
 There are generally 3 methods used while classifying Sentiments :
 
