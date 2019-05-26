@@ -1,6 +1,6 @@
 # Twitter_Analysis
 
-Using Twitter generated API Keys, we have imported the data basis keyword, language, location & date filters.
+Using Twitter generated API Keys, the data has been imported basis keyword, language, location & date filters.
 
 The extracted data has additional features as well and requires immediate data cleaning before performing further analysis.
 
